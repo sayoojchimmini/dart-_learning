@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/arithmetic.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/first_last_name.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/number.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/print_name.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/variable_and_print.dart" charset="UTF-8" />
+  </component>
+</project>
