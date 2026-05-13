@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/arithametic_calculation.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/arithmetic.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assigmnment_operators.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/check_runtime_type.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/compare_string.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/create_malt.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dart_excerises/fact.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dart_excerises/prime_or_not.dart" charset="UTF-8" />
@@ -10,13 +13,30 @@
     <file url="file://$PROJECT_DIR$/dart_excerises/string.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/double_to_int.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/first_last_name.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/floating_user.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/list.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/logical.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/main.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/not_equal.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/number.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pre_increment_post_increment.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/print_name.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/raw_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/replace_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rev_string.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/round_double.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/split_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/string_concatenation.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/string_dart.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/string_properties.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/string_to_int.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/string_to_uppercase.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/string_user_input.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sub_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/to_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trim_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user_input.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/variable_and_print.dart" charset="UTF-8" />
   </component>
 </project>
