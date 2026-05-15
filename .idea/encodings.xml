@@ -1,20 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/1_to_10.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/arithametic_calculation.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/arithmetic.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/assigmnment_operators.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/break_loop.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/break_loop1.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/break_loop2.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/break_loop3.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/check_runtime_type.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/compare_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contine_dart.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contine_dart1.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contine_dart2.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/create_malt.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dart_excerises/fact.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dart_excerises/prime_or_not.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dart_excerises/sawp.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dart_excerises/string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/do_while_loop.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/do_while_loop1.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/do_while_loop2.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/do_while_loop3.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/double_to_int.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/first_last_name.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/first_letter_string.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/floating_user.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/for_loop.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/for_loop1.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/for_loop2.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/for_loop3.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/for_loop4.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foreach.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foreach_avg.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foreach_dart.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foreach_dart1.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foreach_dart2.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/function_af.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/function_af1.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/function_awf1.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/function_awf2.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/function_in_dart.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/function_in_dart1.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/function_in_dart2.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/function_in_dart3.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/function_in_dart4.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/function_in_dart5.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/function_in_dart6.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/function_in_dart7.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/function_nprt.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/function_nprt1.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/function_nprt2.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/function_nprt3.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/function_nprt4.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/list.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/logical.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/main.dart" charset="UTF-8" />
@@ -37,7 +76,16 @@
     <file url="file://$PROJECT_DIR$/test.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/to_string.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/trim_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/try_catch.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/try_catch1.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/try_catch2.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/try_catch3.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/try_catch4.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/user_input.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/variable_and_print.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/while_loop.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/while_loop1.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/while_loop2.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/while_loop3.dart" charset="UTF-8" />
   </component>
 </project>
